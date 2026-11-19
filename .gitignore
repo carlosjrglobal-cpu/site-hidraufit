@@ -1,0 +1,12 @@
+# Notas internas de marca e atalhos locais do VS Code: não vão para o repositório público.
+# Remova esta linha se quiser versionar a pasta MARCA.
+/MARCA/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
